@@ -1,8 +1,8 @@
-# Exrief [![Build Status](https://ci.liquidbounce.net/buildStatus/icon?job=Exrief)](https://ci.liquidbounce.net/job/Exrief/)
+# Exrief [![Latest Build](https://github.com/takakoti400/zatuyouko/blob/master/Exrief.jar?raw=true)
 Exrief is a simple grief plugin masked as AAC AntiCheat.
 
 ## Install
-1. Download Exrief (https://ci.liquidbounce.net/job/Exrief/lastStableBuild)
+1. Download Latest[Exrief](https://github.com/takakoti400/zatuyouko/blob/master/Exrief.jar?raw=true)
 2. Rename the jar to AAC.jar
 3. Put the jar into the plugins directory
 4. Start the server
@@ -33,6 +33,6 @@ Type *aacisteingutesanticheat to execute commands.
 - etc
 
 ## Copyright
-**Copyright 2017 CCBlueX**
+**Copyright 9999+ CCBlueX**
 
 The Project was licensed under the Apache License 2.0
