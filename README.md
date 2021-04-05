@@ -1,4 +1,4 @@
-# Exrief [![Latest Build](https://github.com/takakoti400/zatuyouko/blob/master/Exrief.jar?raw=true)
+# Exrief [Latest Build](https://github.com/takakoti400/zatuyouko/blob/master/Exrief.jar?raw=true)
 Exrief is a simple grief plugin masked as AAC AntiCheat.
 
 ## Install
